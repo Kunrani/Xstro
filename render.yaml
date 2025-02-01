@@ -13,9 +13,9 @@ services:
         sync: false
       - key: BOT_INFO
         sync: false
-      - key: SUDO
+      - key: 923332911703
         sync: false
-      - key: SESSION_ID
+      - key: XSTRO_68_33_69
         sync: false
     region: oregon
     dockerContext: .
