@@ -5,7 +5,7 @@ services:
     repo: https://github.com/AstroX11/Xstro
     plan: free
     envVars:
-      - key: TIME_ZONE
+      - key: Asia/Karachi
         sync: false
       - key: WARN_COUNT
         sync: false
@@ -13,9 +13,9 @@ services:
         sync: false
       - key: BOT_INFO
         sync: false
-      - key: 923332911703
+      - key: +923332911703
         sync: false
-      - key: XSTRO_68_33_69
+      - key:  XSTRO_68_33_69
         sync: false
     region: oregon
     dockerContext: .
